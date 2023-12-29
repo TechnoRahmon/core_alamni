@@ -12,7 +12,7 @@ export const allRoutes = [
     children: guestRoutes,
   },
   {
-    path: paths.DASHBOARD_PAGE,
+    path: paths.MENTOR_PAGE,
     element: <AdminLayout />,
     children: adminRoutes,
   },
