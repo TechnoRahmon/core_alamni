@@ -5,7 +5,7 @@ export default function AdminLayout() {
   // Consume the context
 
   return (
-    <div className="h-screen w-full flex items-center justify-center">
+    <div className="w-3/4 flex m-4 justify-center ml-auto">
       <Header />
 
       <div className="p-4 mt-10">
